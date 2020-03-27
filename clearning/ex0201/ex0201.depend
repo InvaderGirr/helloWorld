@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585055185 source:/home/adminux/Documents/codes/C_programming/ex0101/ex0201/main.c
+	<stdio.h>
+	<stdlib.h>
+
